@@ -1,0 +1,6 @@
+@solid.API_HostAddress = http://localhost:5279
+
+GET {{solid.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
