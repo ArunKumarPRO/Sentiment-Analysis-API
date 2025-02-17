@@ -1,1 +1,3 @@
-# Solid
+# Sentiment Analysis API (ASP.NET Core (C#))
+
+## Note: REPLACE GEMINI API KEY PLACEHOLDER WITH YOUR GEMINI API KEY
